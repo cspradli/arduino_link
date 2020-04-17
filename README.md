@@ -10,6 +10,10 @@ In catkin ws:
  cd arduino_link/src
  git clone https://github.com/cspradli/simuino.git 
  ```
+ Note: If no src folder in arduino link, run this inside the arduino_link folder:
+ ```
+ mkdir src
+ ```
  
  Once cloned:
  ```
