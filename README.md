@@ -1,7 +1,7 @@
 # ros_simuino
-Ros - Simuino linkup
+ROS - SIMUINO linkup
 
-## Download install
+## Download and Install
 
 In catkin ws:
  ```
